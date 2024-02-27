@@ -1,0 +1,8 @@
+
+## Implementation of Google Gemini AI API with iOS using SwiftUI
+
+Learn how to use Google Gemini AI API in iOS using SwiftUI. This chat app starter template will help you to build an ai chat app easily. 
+
+Get basic idea from here: [Gemini AI on iOS with SwiftUI](https://devswiftly.com/gemini-ai-on-ios-with-swiftui/)
+
+![Gemini API demo SwiftUI](app.png)
