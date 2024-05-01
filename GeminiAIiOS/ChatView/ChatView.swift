@@ -78,6 +78,7 @@ struct ChatView: View {
                             
                             .onTapGesture {
                                 hideKeyboard()
+                                proxy.scrollTo(messages.last, anchor: .bottom)
                             }
                             
                             // send new message
